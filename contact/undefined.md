@@ -33,10 +33,10 @@ description: ଓଡିଶା ସରକାର ଙ୍କ ତରଫରୁ ନିମ
 
 ### ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଫିଡ୍
 
-* ମୁଖ୍ୟମନ୍ତ୍ରୀଙ୍କ ଟ୍ୱିଟର: www.twitter.com/naveen\_odisha
-*  ମୁଖ୍ୟମନ୍ତ୍ରୀଙ୍କ ଫେସବୁକ୍:www.facebook.com/naveen.odisha 
-* ସୁଚନା ଓ ଲୋକସମ୍ପର୍କ ବିଭାଗ ଟ୍ୱିଟର: www.twitter.com/IPR\_Odisha 
-* ସୁଚନା ଓ ଲୋକସମ୍ପର୍କ ବିଭାଗ ଫେସବୁକ୍: www.facebook.com/iprodisha 
+* ମୁଖ୍ୟମନ୍ତ୍ରୀଙ୍କ ଟ୍ୱିଟର: **www.twitter.com/naveen\_odisha**
+*  ମୁଖ୍ୟମନ୍ତ୍ରୀଙ୍କ ଫେସବୁକ୍:**www.facebook.com/naveen.odisha** 
+* ସୁଚନା ଓ ଲୋକସମ୍ପର୍କ ବିଭାଗ ଟ୍ୱିଟର: **www.twitter.com/IPR\_Odisha** 
+* ସୁଚନା ଓ ଲୋକସମ୍ପର୍କ ବିଭାଗ ଫେସବୁକ୍: **www.facebook.com/iprodisha** 
 * ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଲିଙ୍କ୍ ସ୍ଵାସ୍ଥ୍ୟ ଓ ପରିବାର କଲ୍ୟାଣ ମନ୍ତ୍ରାଳୟ: [https://www.mohfw.gov.in/](https://www.mohfw.gov.in/) 
 * ସ୍ଵାସ୍ଥ୍ୟ ଓ ପରିବାର କଲ୍ୟାଣ ବିଭାଗ, ଓଡ଼ିଶା: [https://health.odisha.gov.in/](https://health.odisha.gov.in/) 
 * ଡବ୍ଲୁଏଚ୍ଓ: [https://www.who.int/](https://www.who.int/)
