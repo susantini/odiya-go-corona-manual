@@ -7,7 +7,6 @@
 * [ଅବ୍ରୋଡରୁ ଫେରୁଥିବା ଲୋକଙ୍କ ପଞ୍ଜିକରଣ](registration-of-people-returning-from-abroad.md)
 * [ଓଡିଶା ସରକାର ଦ୍ୱାରା ସ୍ୱାସ୍ଥ୍ୟ ସହଯୋଗୀ ଦିଶାନିର୍ଦେଶ](health-advisory-guidelines-by-odisha-government.md)
 * [କାର୍ଯ୍ୟକ୍ଷେତ୍ର ରେ  କର୍ମଚାରୀଙ୍କ ପ୍ରତି ବିପଦ ହ୍ରାସ](undefined.md)
-* [ପାଳକ ଯତ୍ନ](undefined-1.md)
 * [ମିଥ୍ୟା -ଅପପ୍ରଚାର -ଖବର](myths-and-fake-news.md)
 * [ପ୍ରାୟତଃ ପଚରାଯାଇଥିବା ପ୍ରଶ୍ନ](frequently-asked-questions-about-covid-19.md)
 
