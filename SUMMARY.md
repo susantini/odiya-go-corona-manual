@@ -19,6 +19,7 @@
 ## ସମ୍ପର୍କ କରନ୍ତୁ <a id="contact"></a>
 
 * [ଓଡିଶା ରାଜ୍ୟ ରେ ସ୍ୱତନ୍ତ୍ର COVID ହସ୍ପିଟାଲ ତାଲିକା](contact/list-of-covid-hospitals-in-odisha.md)
+* [ଓଡିଶା ରେ କରୋନା ପାଇଁ ପଦକ୍ଷେପ](contact/undefined.md)
 * [ରାଜ୍ୟ ଗୁଡିକ ରେ COVID-19 ପାଇଁ ପରୀକ୍ଷା କରିବାକୁ କେନ୍ଦ୍ରଗୁଡିକ](contact/centers-to-test-for-covid-19.md)
 * [ଆନ୍ତର୍ଜାତୀୟ ସଂଗଠନଗୁଡିକ](contact/international-organizations.md)
 * [ଜାତୀୟ ସ୍ତରର ସଂଗଠନଗୁଡିକ](contact/national-level-organizations.md)
