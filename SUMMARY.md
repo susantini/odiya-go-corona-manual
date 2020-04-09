@@ -3,7 +3,7 @@
 * [କରୋନା ଠାରୁ ସୁରକ୍ଷା](README.md)
 * [ପ୍ରତିଷେଧାତ୍ମକ  ବ୍ୟବସ୍ଥା ଓ ନିବାରଣ ପ୍ରଣାଳୀ](precautions.md)
 * [ଲକ୍ଷଣ](symptoms.md)
-* [ବୃଦ୍ଧ ବ୍ୟକ୍ତି ଏବଂ ଚିକିତ୍ସା ସମ୍ବନ୍ଧୀୟ ଲୋକ](old_people-and_people_with_medical_history.md)
+* [ଭାରତରେ କରୋନାଭାଇରସର ବୟସ ଜ୍ଞାନୀ ରୋଗୀ](old_people-and_people_with_medical_history.md)
 * [ବିଦେଶରୁ ଫେରୁଥିବା ଲୋକଙ୍କ ପଞ୍ଜିକରଣ](registration-of-people-returning-from-abroad.md)
 * [ଓଡିଶା ସରକାର ଦ୍ୱାରା ସ୍ୱାସ୍ଥ୍ୟ ସହଯୋଗୀ ଦିଶାନିର୍ଦେଶ](health-advisory-guidelines-by-odisha-government.md)
 * [କାର୍ଯ୍ୟକ୍ଷେତ୍ର ରେ କର୍ମଚାରୀଙ୍କ ପ୍ରତି ବିପଦ ହ୍ରାସ](reducing-the-risk-to-employees-in-the-workplace.md)
