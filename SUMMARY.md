@@ -38,5 +38,5 @@
 * [ନିଶ୍ଚିତ ହୋଇଥିବା ମାମଲାଗୁଡ଼ିକର ରାଜ୍ୟ ତାଲିକା](resources/untitled.md)
 * [କରୋନା ବିସ୍ଫୋରଣର ବିଶ୍ୱ ମାନଚିତ୍ର](resources/global-map-of-corona-outbreak.md)
 * [କରୋନା ସମୟରେ ଦୂରରୁ କାମ କରିବା ପାଇଁ ପ୍ରଭାବଶାଳୀ ଉପକରଣ](resources/untitled-1.md)
-* [ଉତ୍ସ](resources/undefined.md)
+* [ଉତ୍ସ](resources/sources.md)
 
