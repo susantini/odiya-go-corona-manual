@@ -6,6 +6,8 @@ description: ଏହି ପୃଷ୍ଠା ଓଡିଶା ଦ୍ୱାରା ସ
 
 କୋରୋନା ଭାଇରସ  ର ପ୍ରକୋପ ରୁ ବଞ୍ଚିତ ହବା ପାଇଁ ସ୍ୱାସ୍ଥ୍ୟ ଓ ପରିବାର ବିଭାଗ ଦ୍ୱାରା ଜାରି କରିଥିବା ଦିଶାନିର୍ଦେଶ ଦିୟା ଯାଇଛି\|
 
+![](.gitbook/assets/screenshot_2020-04-09-14-28-24-290_com.android.chrome.jpg)
+
 {% hint style="info" %}
 [ଅଧିକ ଜାଣିବା ପାଇଁ ଏଠାରେ କିଲିକ କରନ୍ତୁ](https://health.odisha.gov.in/)
 {% endhint %}
