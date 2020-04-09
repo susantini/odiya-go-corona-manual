@@ -5,6 +5,8 @@ description: ବିମାନ ବନ୍ଦର ଦେଇ ଯାତ୍ରା କର
 
 # ବିମାନବନ୍ଦର
 
+![&#xB06;&#xB2C;&#xB36;&#xB4D;&#xB5F;&#xB15; &#xB28;&#xB39;&#xB47;&#xB32;&#xB47; &#xB2A;&#xB4D;&#xB30;&#xB2D;&#xB3E;&#xB2C;&#xB3F;&#xB24; &#xB05;&#xB1E;&#xB4D;&#xB1A;&#xB33;&#xB15;&#xB41; &#xB2F;&#xB3E;&#xB24;&#xB4D;&#xB30;&#xB3E; &#xB15;&#xB30;&#xB3F;&#xB2C;&#xB3E; &#xB20;&#xB3E;&#xB30;&#xB41; &#xB26;&#xB42;&#xB30;&#xB47;&#xB07; &#xB30;&#xB41;&#xB39;&#xB28;&#xB4D;&#xB24;&#xB41; ](../.gitbook/assets/p1.JPG)
+
 {% hint style="info" %}
  ପ୍ରଗତିରେ କାମ କରନ୍ତୁ, ନିମ୍ନରେ ଦିଆଯାଇଥିବା ଇନଫୋଗ୍ରାଫିକ୍ ଫାୟାରକୁ ଅଧିକ ସୂଚନା ଅନୁସରଣ କରନ୍ତୁ \|
 {% endhint %}
