@@ -1,6 +1,6 @@
 # Table of contents
 
-* [କୋରୋନା ଠାରୁ ସୁରକ୍ଷା](README.md)
+* [କରୋନା ଠାରୁ ସୁରକ୍ଷା](README.md)
 * [ପ୍ରତିଷେଧାତ୍ମକ  ବ୍ୟବସ୍ଥା ଓ ନିବାରଣ ପ୍ରଣାଳୀ](precautions.md)
 * [ଲକ୍ଷଣ](symptoms.md)
 * [ବୃଦ୍ଧ ବ୍ୟକ୍ତି ଏବଂ ଚିକିତ୍ସା ସମ୍ବନ୍ଧୀୟ ଲୋକ](old_people-and_people_with_medical_history.md)
