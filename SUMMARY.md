@@ -18,6 +18,7 @@
 
 ## ସମ୍ପର୍କ କରନ୍ତୁ <a id="contact"></a>
 
+* [ଯେଉଁମାନଙ୍କର ଲକ୍ଷଣ ପରି ସ୍ୱାଇନ୍ ଫ୍ଲୁ ଅଛି ସେମାନଙ୍କ ପାଇଁ ଭୁବନେଶ୍ୱରରେ ଜ୍ୱର କ୍ଲିନିକ୍](contact/undefined.md)
 * [ଓଡିଶା ରାଜ୍ୟ ରେ ସ୍ୱତନ୍ତ୍ର COVID ହସ୍ପିଟାଲ ତାଲିକା](contact/list-of-covid-hospitals-in-odisha.md)
 * [ଓଡିଶା ରେ କରୋନା ପାଇଁ ପଦକ୍ଷେପ](contact/steps-for-corona-in-odisha.md)
 * [ରାଜ୍ୟ ଗୁଡିକ ରେ COVID-19 ପାଇଁ ପରୀକ୍ଷା କରିବାକୁ କେନ୍ଦ୍ରଗୁଡିକ](contact/centers-to-test-for-covid-19.md)
