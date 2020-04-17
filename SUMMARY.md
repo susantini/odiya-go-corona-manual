@@ -9,9 +9,9 @@
 * [ମିଥ୍ୟା -ଅପପ୍ରଚାର -ଖବର\(Myths and Fake News\)](myths-and-fake-news.md)
 * [ପ୍ରାୟତଃ ପଚରାଯାଇଥିବା ପ୍ରଶ୍ନ\(Frequently Asked Questions\)](frequently-asked-questions-about-covid-19.md)
 
-## କେତେବେଳେ ପଦକ୍ଷେପ ନିଆଯିବ <a id="actions-to-take-when"></a>
+## କେତେବେଳେ ପଦକ୍ଷେପ ନିଆଯିବ\(Actions to take when\)
 
-* [ମୁଁ ସଂକ୍ରମିତ](actions-to-take-when/i-am-infected.md)
+* [ମୁଁ ସଂକ୍ରମିତ\(i am infected\)](actions-to-take-when/i-am-infected.md)
 * [ମୁଁ ଜାଣେ କେହି ସଂକ୍ରମିତ](actions-to-take-when/someone-i-know-is-infected.md)
 * [ଘର ବିଚ୍ଛିନ୍ନତା](actions-to-take-when/home-isolation.md)
 
