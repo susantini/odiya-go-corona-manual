@@ -3,8 +3,8 @@
 * [କରୋନା ଠାରୁ ସୁରକ୍ଷା\(Corona Safe\)](README.md)
 * [ପ୍ରତିଷେଧାତ୍ମକ  ବ୍ୟବସ୍ଥା ଓ ନିବାରଣ ପ୍ରଣାଳୀ\(Precautions\)](precautions.md)
 * [ଲକ୍ଷଣ\(Symptoms\)](symptoms.md)
-* [ଭାରତରେ କରୋନାଭାଇରସର ବୟସ ଜ୍ଞାନୀ ରୋଗୀ](old_people-and_people_with_medical_history/README.md)
-  * [ଓଡିଶା ସରକାର ଦ୍ୱାରା ସ୍ୱାସ୍ଥ୍ୟ ସହଯୋଗୀ ଦିଶାନିର୍ଦେଶ\(Health Advisory Guidelines by Odisha Govt.\)](old_people-and_people_with_medical_history/health-advisory-guidelines-by-odisha-government.md)
+* [ଭାରତରେ କରୋନାଭାଇରସର ବୟସ ଜ୍ଞାନୀ ରୋଗୀ\(Age-Wise Corona virus patients in India\)](age-wise-corona-virus-patients-in-india/README.md)
+  * [ଓଡିଶା ସରକାର ଦ୍ୱାରା ସ୍ୱାସ୍ଥ୍ୟ ସହଯୋଗୀ ଦିଶାନିର୍ଦେଶ\(Health Advisory Guidelines by Odisha Govt.\)](age-wise-corona-virus-patients-in-india/health-advisory-guidelines-by-odisha-government.md)
 * [ବିଦେଶରୁ ଫେରୁଥିବା ଲୋକଙ୍କ ପଞ୍ଜିକରଣ\(Registration of people returning from Abroad\)](registration-of-people-returning-from-abroad.md)
 * [ମିଥ୍ୟା -ଅପପ୍ରଚାର -ଖବର\(Myths and Fake News\)](myths-and-fake-news.md)
 * [ପ୍ରାୟତଃ ପଚରାଯାଇଥିବା ପ୍ରଶ୍ନ\(Frequently Asked Questions\)](frequently-asked-questions-about-covid-19.md)
@@ -15,9 +15,9 @@
 * [ମୁଁ ଜାଣେ କେହି ସଂକ୍ରମିତ\(Someone I know is infected\)](actions-to-take-when/someone-i-know-is-infected.md)
 * [ଘର ବିଚ୍ଛିନ୍ନତା\(Home Isolation\)](actions-to-take-when/home-isolation.md)
 
-## ସମ୍ପର୍କ କରନ୍ତୁ <a id="contact"></a>
+## ସମ୍ପର୍କ କରନ୍ତୁ\(Contact\)
 
-* [ଯେଉଁମାନଙ୍କର ଲକ୍ଷଣ ପରି ସ୍ୱାଇନ୍ ଫ୍ଲୁ ଅଛି ସେମାନଙ୍କ ପାଇଁ ଭୁବନେଶ୍ୱରରେ ଜ୍ୱର କ୍ଲିନିକ୍](contact/undefined.md)
+* [ଯେଉଁମାନଙ୍କର ଲକ୍ଷଣ ପରି ସ୍ୱାଇନ୍ ଫ୍ଲୁ ଅଛି ସେମାନଙ୍କ ପାଇଁ ଭୁବନେଶ୍ୱରରେ ଜ୍ୱର କ୍ଲିନିକ୍\(Fever Clinics in BBS\)](contact/undefined.md)
 * [ଓଡିଶା ରାଜ୍ୟ ରେ ସ୍ୱତନ୍ତ୍ର COVID ହସ୍ପିଟାଲ ତାଲିକା\(COVID-19 Hospitals in Odisha till now\)](contact/list-of-covid-hospitals-in-odisha.md)
 * [ଓଡିଶା ରେ କରୋନା ପାଇଁ ପଦକ୍ଷେପ\(Steps for Corona in Odisha\)](contact/steps-for-corona-in-odisha.md)
 * [ରାଜ୍ୟ ଗୁଡିକ ରେ COVID-19 ପାଇଁ ପରୀକ୍ଷା କରିବାକୁ କେନ୍ଦ୍ରଗୁଡିକ](contact/centers-to-test-for-covid-19.md)

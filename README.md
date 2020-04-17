@@ -34,7 +34,7 @@ description: '-----ସତ୍ୟପିତ ପ୍ରମାଣ ଯୁକ୍ତ ନ�
 
 {% page-ref page="symptoms.md" %}
 
-{% page-ref page="old\_people-and\_people\_with\_medical\_history/" %}
+{% page-ref page="age-wise-corona-virus-patients-in-india/" %}
 
 {% page-ref page="registration-of-people-returning-from-abroad.md" %}
 
