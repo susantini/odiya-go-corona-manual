@@ -33,3 +33,7 @@ _କଠୋରୀ କୁ ବ୍ଲିଚିଙ୍ଗ ଯୁକ୍ତ ରାସା
 
 > COVID-19 ବ୍ୟାପିବାର ପ୍ରତିଷେଧକ ବିବରଣୀ ତଥା ନିର୍ଦେଶାବଳୀ [COVID-19 ସନ୍ଦିଗ୍ଧ ବ୍ୟକ୍ତିଙ୍କ ପାଇଁ ପ୍ରଯୁଜ୍ୟ ତଥା ସଙ୍ଗରୋଧ. ବ୍ୟକ୍ତିଙ୍କ ପାଇଁ ପ୍ରଯୁଜ୍ୟ](https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html)
 
+{% page-ref page="../" %}
+
+
+

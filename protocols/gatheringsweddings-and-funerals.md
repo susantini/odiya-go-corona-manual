@@ -42,3 +42,7 @@ description: >-
 
 \[ବିସ୍ତୃତ ମାର୍ଗଦର୍ଶନ ପାଆନ୍ତୁ\] \([https://www.cdc.gov/coronavirus/2019-ncov/downloads/Mass-Gatherings-Document\_FINAL.pdf](https://www.cdc.gov/coronavirus/2019-ncov/downloads/Mass-Gatherings-Document_FINAL.pdf)\)
 
+{% page-ref page="../" %}
+
+
+

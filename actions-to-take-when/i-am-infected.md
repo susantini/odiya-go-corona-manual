@@ -82,3 +82,7 @@
 
  ଉତ୍ସ: [https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html)
 
+{% page-ref page="../" %}
+
+
+

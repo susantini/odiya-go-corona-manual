@@ -4,5 +4,7 @@
 [ନିଶ୍ଚିତ ହୋଇଥିବା ମାମଲାଗୁଡ଼ିକର ରାଜ୍ୟ ତାଲିକା](https://www.mohfw.gov.in/)
 {% endhint %}
 
+{% page-ref page="../" %}
+
 
 

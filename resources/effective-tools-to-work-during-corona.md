@@ -40,3 +40,7 @@ description: 'ନିମ୍ନରେ ତାଲିକାଭୁକ୍ତ ସୁଦ�
 
 \[କରୋନା\] \([https://github.com/AllenAJ/Corona](https://github.com/AllenAJ/Corona)\) \|
 
+{% page-ref page="../" %}
+
+
+

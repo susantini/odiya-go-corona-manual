@@ -11,5 +11,7 @@ description: >-
 କାର୍ଯ୍ୟ ଚାଲିଛି, \[[https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers](https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers%29%28https://www.ecdc.europa.eu/en/novel-coronavirus-) \]କୁ ଅନୁସରଣ କରନ୍ତୁ \| 
 {% endhint %}
 
+{% page-ref page="../" %}
+
 
 

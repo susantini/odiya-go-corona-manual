@@ -29,3 +29,7 @@ description: COVID-19 ବିଷୟରେ ସାଧାରଣ ପୁରାଣ ତ�
 
 ଉତ୍ସ : [https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/mythbuster-4.tmb-1920v.png?sfvrsn=e163bada\_2\#](https://www.who.int/images/default-source/health-topics/coronavirus/myth-busters/web-mythbusters/mythbuster-4.tmb-1920v.png?sfvrsn=e163bada_2_1#)
 
+{% page-ref page="./" %}
+
+
+
