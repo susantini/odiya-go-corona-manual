@@ -35,8 +35,8 @@
 
 ## ଉତ୍ସଗୁଡିକ <a id="resources"></a>
 
-* [ନିଶ୍ଚିତ ହୋଇଥିବା ମାମଲାଗୁଡ଼ିକର ରାଜ୍ୟ ତାଲିକା](resources/untitled.md)
-* [କରୋନା ବିସ୍ଫୋରଣର ବିଶ୍ୱ ମାନଚିତ୍ର](resources/global-map-of-corona-outbreak.md)
+* [ନିଶ୍ଚିତ ହୋଇଥିବା ମାମଲାଗୁଡ଼ିକର ରାଜ୍ୟ ତାଲିକା\(State Wise cases of COVID-19 in India\)](resources/state-wise-cases-of-covid-19-in-india.md)
+* [କରୋନା ବିସ୍ଫୋରଣର ବିଶ୍ୱ ମାନଚିତ୍ର\(Global Map of Corona Outbreak\)](resources/global-map-of-corona-outbreak.md)
 * [କରୋନା ସମୟରେ ଦୂରରୁ କାମ କରିବା ପାଇଁ ପ୍ରଭାବଶାଳୀ ଉପକରଣ](resources/effective-tools-to-work-during-corona.md)
 * [ଉତ୍ସ](resources/sources.md)
 
