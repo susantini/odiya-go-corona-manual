@@ -2,7 +2,7 @@
 description: COVID-19 ର ମୁଖ୍ୟ ଲକ୍ଷଣଗୁଡିକ ବର୍ଣ୍ଣନା କରେ
 ---
 
-# ଲକ୍ଷଣ
+# ଲକ୍ଷଣ\(Symptoms\)
 
 covid-19 ର ମୁଖ୍ୟ କାରଣ ହଉଚି ଜ୍ୱର ,କାଶ ଏବଂ ଥଣ୍ଡା I ଏହି ଲକ୍ଷଣ ସଂକ୍ରମଣ ହବାର ୫ ଦିନ ପରେ ଦେଖା ଯାଏ ଏବଂ ଅଧିକାଂଶ \[[୨-୧୪ଦିନ ](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html)\]\([https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html)\) ମଧ୍ୟରେ ଦେଖା ଦିଏ I 
 
