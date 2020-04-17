@@ -29,9 +29,9 @@
 * [ବାୟୁ ଏବଂ ଟ୍ରେନ୍ ସେବା\(Air and Bus Services\)](protocols/airport.md)
 * [ସମାବେଶ, ବିବାହ ଏବଂ ଅନ୍ତିମ ସଂସ୍କାର\(Gatherings,Weddings &Funerals\)](protocols/gatheringsweddings-and-funerals.md)
 
-## COVID-19 ଜାଣ <a id="know-covid-19"></a>
+## COVID-19 ଜାଣ\(know COVID-19\) <a id="know-covid-19"></a>
 
-* [ଭୁତାଣୁ  ଷ୍ଟ୍ରେନ୍](know-covid-19/covid-19-virus-strain.md)
+* [ଭୁତାଣୁ  ଷ୍ଟ୍ରେନ୍\(COVID-19 Virus strain\)](know-covid-19/covid-19-virus-strain.md)
 
 ## ଉତ୍ସଗୁଡିକ <a id="resources"></a>
 
