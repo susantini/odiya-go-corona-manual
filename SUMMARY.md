@@ -6,7 +6,7 @@
 * [ଭାରତରେ କରୋନାଭାଇରସର ବୟସ ଜ୍ଞାନୀ ରୋଗୀ](old_people-and_people_with_medical_history.md)
 * [ବିଦେଶରୁ ଫେରୁଥିବା ଲୋକଙ୍କ ପଞ୍ଜିକରଣ\(Registration of people returning from Abroad\)](registration-of-people-returning-from-abroad.md)
 * [ଓଡିଶା ସରକାର ଦ୍ୱାରା ସ୍ୱାସ୍ଥ୍ୟ ସହଯୋଗୀ ଦିଶାନିର୍ଦେଶ\(Health Advisory Guidelines by Odisha Govt.\)](health-advisory-guidelines-by-odisha-government.md)
-* [ମିଥ୍ୟା -ଅପପ୍ରଚାର -ଖବର](myths-and-fake-news.md)
+* [ମିଥ୍ୟା -ଅପପ୍ରଚାର -ଖବର\(Myths and Fake News\)](myths-and-fake-news.md)
 * [ପ୍ରାୟତଃ ପଚରାଯାଇଥିବା ପ୍ରଶ୍ନ](frequently-asked-questions-about-covid-19.md)
 
 ## କେତେବେଳେ ପଦକ୍ଷେପ ନିଆଯିବ <a id="actions-to-take-when"></a>
