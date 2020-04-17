@@ -3,17 +3,17 @@
 * [କରୋନା ଠାରୁ ସୁରକ୍ଷା\(Corona Safe\)](README.md)
 * [ପ୍ରତିଷେଧାତ୍ମକ  ବ୍ୟବସ୍ଥା ଓ ନିବାରଣ ପ୍ରଣାଳୀ\(Precautions\)](precautions.md)
 * [ଲକ୍ଷଣ\(Symptoms\)](symptoms.md)
-* [ଭାରତରେ କରୋନାଭାଇରସର ବୟସ ଜ୍ଞାନୀ ରୋଗୀ](old_people-and_people_with_medical_history.md)
+* [ଭାରତରେ କରୋନାଭାଇରସର ବୟସ ଜ୍ଞାନୀ ରୋଗୀ](old_people-and_people_with_medical_history/README.md)
+  * [ଓଡିଶା ସରକାର ଦ୍ୱାରା ସ୍ୱାସ୍ଥ୍ୟ ସହଯୋଗୀ ଦିଶାନିର୍ଦେଶ\(Health Advisory Guidelines by Odisha Govt.\)](old_people-and_people_with_medical_history/health-advisory-guidelines-by-odisha-government.md)
 * [ବିଦେଶରୁ ଫେରୁଥିବା ଲୋକଙ୍କ ପଞ୍ଜିକରଣ\(Registration of people returning from Abroad\)](registration-of-people-returning-from-abroad.md)
-* [ଓଡିଶା ସରକାର ଦ୍ୱାରା ସ୍ୱାସ୍ଥ୍ୟ ସହଯୋଗୀ ଦିଶାନିର୍ଦେଶ\(Health Advisory Guidelines by Odisha Govt.\)](health-advisory-guidelines-by-odisha-government.md)
 * [ମିଥ୍ୟା -ଅପପ୍ରଚାର -ଖବର\(Myths and Fake News\)](myths-and-fake-news.md)
 * [ପ୍ରାୟତଃ ପଚରାଯାଇଥିବା ପ୍ରଶ୍ନ\(Frequently Asked Questions\)](frequently-asked-questions-about-covid-19.md)
 
 ## କେତେବେଳେ ପଦକ୍ଷେପ ନିଆଯିବ\(Actions to take when\)
 
 * [ମୁଁ ସଂକ୍ରମିତ\(i am infected\)](actions-to-take-when/i-am-infected.md)
-* [ମୁଁ ଜାଣେ କେହି ସଂକ୍ରମିତ](actions-to-take-when/someone-i-know-is-infected.md)
-* [ଘର ବିଚ୍ଛିନ୍ନତା](actions-to-take-when/home-isolation.md)
+* [ମୁଁ ଜାଣେ କେହି ସଂକ୍ରମିତ\(Someone I know is infected\)](actions-to-take-when/someone-i-know-is-infected.md)
+* [ଘର ବିଚ୍ଛିନ୍ନତା\(Home Isolation\)](actions-to-take-when/home-isolation.md)
 
 ## ସମ୍ପର୍କ କରନ୍ତୁ <a id="contact"></a>
 
