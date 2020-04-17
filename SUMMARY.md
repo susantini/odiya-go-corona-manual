@@ -1,6 +1,6 @@
 # Table of contents
 
-* [କରୋନା ଠାରୁ ସୁରକ୍ଷା](README.md)
+* [କରୋନା ଠାରୁ ସୁରକ୍ଷା\(Corona Safe\)](README.md)
 * [ପ୍ରତିଷେଧାତ୍ମକ  ବ୍ୟବସ୍ଥା ଓ ନିବାରଣ ପ୍ରଣାଳୀ](precautions.md)
 * [ଲକ୍ଷଣ](symptoms.md)
 * [ଭାରତରେ କରୋନାଭାଇରସର ବୟସ ଜ୍ଞାନୀ ରୋଗୀ](old_people-and_people_with_medical_history.md)

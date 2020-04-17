@@ -2,7 +2,7 @@
 description: '-----ସତ୍ୟପିତ ପ୍ରମାଣ ଯୁକ୍ତ ନୀତି ଓ ନିୟମ ସମୂହ ----'
 ---
 
-# କରୋନା ଠାରୁ ସୁରକ୍ଷା
+# କରୋନା ଠାରୁ ସୁରକ୍ଷା\(Corona Safe\)
 
 ![](.gitbook/assets/coronaku-kar-na.JPG)
 
