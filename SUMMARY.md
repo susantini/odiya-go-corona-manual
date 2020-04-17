@@ -20,9 +20,9 @@
 * [ଯେଉଁମାନଙ୍କର ଲକ୍ଷଣ ପରି ସ୍ୱାଇନ୍ ଫ୍ଲୁ ଅଛି ସେମାନଙ୍କ ପାଇଁ ଭୁବନେଶ୍ୱରରେ ଜ୍ୱର କ୍ଲିନିକ୍\(Fever Clinics in BBS\)](contact/undefined.md)
 * [ଓଡିଶା ରାଜ୍ୟ ରେ ସ୍ୱତନ୍ତ୍ର COVID ହସ୍ପିଟାଲ ତାଲିକା\(COVID-19 Hospitals in Odisha till now\)](contact/list-of-covid-hospitals-in-odisha.md)
 * [ଓଡିଶା ରେ କରୋନା ପାଇଁ ପଦକ୍ଷେପ\(Steps for Corona in Odisha\)](contact/steps-for-corona-in-odisha.md)
-* [ରାଜ୍ୟ ଗୁଡିକ ରେ COVID-19 ପାଇଁ ପରୀକ୍ଷା କରିବାକୁ କେନ୍ଦ୍ରଗୁଡିକ](contact/centers-to-test-for-covid-19.md)
-* [ଆନ୍ତର୍ଜାତୀୟ ସଂଗଠନଗୁଡିକ](contact/international-organizations.md)
-* [ଜାତୀୟ ସ୍ତରର ସଂଗଠନଗୁଡିକ](contact/national-level-organizations.md)
+* [ରାଜ୍ୟ ଗୁଡିକ ରେ COVID-19 ପାଇଁ ପରୀକ୍ଷା କରିବାକୁ କେନ୍ଦ୍ରଗୁଡିକ\(Centres to test for COVID-19\)](contact/centers-to-test-for-covid-19.md)
+* [ଆନ୍ତର୍ଜାତୀୟ ସଂଗଠନଗୁଡିକ\(International Organizations\)](contact/international-organizations.md)
+* [ଜାତୀୟ ସ୍ତରର ସଂଗଠନଗୁଡିକ\(National Level Organizations\)](contact/national-level-organizations.md)
 
 ## ପ୍ରୋଟୋକଲଗୁଡିକ\(protocols\)
 
