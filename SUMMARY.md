@@ -26,7 +26,7 @@
 
 ## ପ୍ରୋଟୋକଲଗୁଡିକ <a id="protocols"></a>
 
-* [ବିମାନବନ୍ଦର](protocols/airport.md)
+* [ବାୟୁ ଏବଂ ଟ୍ରେନ୍ ସେବା\(Air and Bus Services\)](protocols/airport.md)
 * [ସମାବେଶ, ବିବାହ ଏବଂ ଅନ୍ତିମ ସଂସ୍କାର](protocols/gatheringsweddings-and-funerals.md)
 
 ## COVID-19 ଜାଣ <a id="know-covid-19"></a>
