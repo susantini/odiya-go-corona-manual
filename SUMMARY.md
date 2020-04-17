@@ -33,10 +33,10 @@
 
 * [ଭୁତାଣୁ  ଷ୍ଟ୍ରେନ୍\(COVID-19 Virus strain\)](know-covid-19/covid-19-virus-strain.md)
 
-## ଉତ୍ସଗୁଡିକ <a id="resources"></a>
+## ଉତ୍ସଗୁଡିକ\(Resources\)
 
 * [ନିଶ୍ଚିତ ହୋଇଥିବା ମାମଲାଗୁଡ଼ିକର ରାଜ୍ୟ ତାଲିକା\(State Wise cases of COVID-19 in India\)](resources/state-wise-cases-of-covid-19-in-india.md)
 * [କରୋନା ବିସ୍ଫୋରଣର ବିଶ୍ୱ ମାନଚିତ୍ର\(Global Map of Corona Outbreak\)](resources/global-map-of-corona-outbreak.md)
-* [କରୋନା ସମୟରେ ଦୂରରୁ କାମ କରିବା ପାଇଁ ପ୍ରଭାବଶାଳୀ ଉପକରଣ](resources/effective-tools-to-work-during-corona.md)
-* [ଉତ୍ସ](resources/sources.md)
+* [କରୋନା ସମୟରେ ଦୂରରୁ କାମ କରିବା ପାଇଁ ପ୍ରଭାବଶାଳୀ ଉପକରଣ\(Effective tools to work during Corona\)](resources/effective-tools-to-work-during-corona.md)
+* [ଉତ୍ସ\(Sources\)](resources/sources.md)
 
